@@ -78,6 +78,9 @@
   <a href="https://github.com/Aestecial/hackathon-features">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aestecial&repo=hackathon-features&theme=white" alt="hackathon-features">
   </a>
+  <a href="https://github.com/Aestecial/academy_bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aestecial&repo=academy_bot&theme=white" alt="hackathon-features">
+  </a>
 </p>
 
 ---
