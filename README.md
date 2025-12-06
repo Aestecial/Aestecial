@@ -19,21 +19,6 @@
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aestecial&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aestecial&show_icons=true&theme=white)
-
----
-
-### 🚀 **My Projects**:
-
-<p align="center">
-  <a href="https://github.com/Aestecial/hackathon-features">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aestecial&repo=hackathon-features&theme=white" alt="hackathon-features">
-  </a>
-  <a href="https://github.com/Aestecial/academy_bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aestecial&repo=academy_bot&theme=white" alt="hackathon-features">
-  </a>
-</p>
-
 ---
 
 ### 🏆 **Achievements**:
